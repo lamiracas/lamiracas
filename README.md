@@ -1,4 +1,4 @@
-## Oieee! Eu sou a Laura Miranda de Castro, desenvolvedora de softwares jr. ~
+## Oieee! Eu sou a Laura, desenvolvedora de softwares jr. ~
 
 - 💻 Fullstack;
 - 🤩 Estudando Javascript;
